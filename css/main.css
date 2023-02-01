@@ -108,10 +108,10 @@ body {
   }
 }
 #hero .content-wrapper .textbox .flex-wrapper h2 {
-  font-size: 2.6rem;
+  font-size: 2.8rem;
   margin-bottom: 1rem;
   font-weight: 700;
-  max-width: 75vw;
+  max-width: 85vw;
 }
 @media (min-width: 371px) and (max-width: 500px) {
   #hero .content-wrapper .textbox .flex-wrapper h2 {
