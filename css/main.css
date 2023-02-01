@@ -69,6 +69,7 @@ body {
 #hero .content-wrapper .textbox .flex-wrapper h1 {
   font-family: "Snasm" !important;
   font-size: 6rem;
+  padding: 0px 0.5rem;
   background: linear-gradient(90deg, #ae8625 0%, #f7ef8a 35%, #d2ac47 80%, #edc967 95%, #d2ac47 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
